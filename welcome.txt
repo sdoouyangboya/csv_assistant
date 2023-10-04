@@ -1,0 +1,1 @@
+Enter the path of your csv file. If you want to process more csv files at once, write their names separated by comma. For example: file1.csv, file2.csv
