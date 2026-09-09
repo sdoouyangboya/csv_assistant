@@ -1,0 +1,22 @@
+# robots.txt — updated by Influcio CMO Agent
+# Allows major AI crawlers for GEO (Generative Engine Optimization)
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
